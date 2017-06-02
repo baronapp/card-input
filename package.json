@@ -1,0 +1,113 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-credit-card-input@^0.3.3",
+        "scope": null,
+        "escapedName": "react-native-credit-card-input",
+        "name": "react-native-credit-card-input",
+        "rawSpec": "^0.3.3",
+        "spec": ">=0.3.3 <0.4.0",
+        "type": "range"
+      },
+      "/Users/dtown/projects/appCameo/cameoapp"
+    ]
+  ],
+  "_from": "react-native-credit-card-input@>=0.3.3 <0.4.0",
+  "_id": "react-native-credit-card-input@0.3.3",
+  "_inCache": true,
+  "_location": "/react-native-credit-card-input",
+  "_nodeVersion": "5.7.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-credit-card-input-0.3.3.tgz_1483067493143_0.6405136724933982"
+  },
+  "_npmUser": {
+    "name": "sbycrosz",
+    "email": "sam@aryasa.net"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-credit-card-input@^0.3.3",
+    "scope": null,
+    "escapedName": "react-native-credit-card-input",
+    "name": "react-native-credit-card-input",
+    "rawSpec": "^0.3.3",
+    "spec": ">=0.3.3 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-credit-card-input/-/react-native-credit-card-input-0.3.3.tgz",
+  "_shasum": "c1de0c440fb1cee6114aec9aee5ea600dafac58e",
+  "_shrinkwrap": null,
+  "_spec": "react-native-credit-card-input@^0.3.3",
+  "_where": "/Users/dtown/projects/appCameo/cameoapp",
+  "author": {
+    "name": "sbycrosz"
+  },
+  "bugs": {
+    "url": "https://github.com/sbycrosz/react-native-credit-card-input/issues"
+  },
+  "dependencies": {
+    "card-validator": "^3.0.0",
+    "lodash.compact": "^3.0.1",
+    "lodash.every": "^4.6.0",
+    "lodash.pick": "^4.4.0",
+    "lodash.values": "^4.3.0",
+    "react-native-flip-card": "^3.3.0"
+  },
+  "description": "React native credit card input component",
+  "devDependencies": {
+    "babel-eslint": "^5.0.0",
+    "babel-polyfill": "^6.6.1",
+    "babel-preset-react-native": "^1.8.0",
+    "eslint": "~2.2.0",
+    "eslint-config-airbnb": "6.0.2",
+    "eslint-plugin-react": "^4.2.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "c1de0c440fb1cee6114aec9aee5ea600dafac58e",
+    "tarball": "https://registry.npmjs.org/react-native-credit-card-input/-/react-native-credit-card-input-0.3.3.tgz"
+  },
+  "gitHead": "b78eab9509153bf836b62b845738be3198b4b200",
+  "homepage": "https://github.com/sbycrosz/react-native-credit-card-input#readme",
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "credit-card",
+    "credit-card input",
+    "skeuomorphic credit-card",
+    "form",
+    "flip",
+    "card",
+    "input",
+    "component",
+    "react-component",
+    "react-native-component"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "sbycrosz",
+      "email": "sam@aryasa.net"
+    }
+  ],
+  "name": "react-native-credit-card-input",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbycrosz/react-native-credit-card-input.git"
+  },
+  "scripts": {
+    "lint": "eslint --ext .js .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.3"
+}
