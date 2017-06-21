@@ -24,9 +24,11 @@ const s = StyleSheet.create({
   },
   inputLabel: {
     fontWeight: "bold",
+    color: "#00f2e6"
   },
   input: {
     height: 40,
+    color: '#fff',
   },
 });
 
@@ -80,7 +82,7 @@ export default class CreditCardInput extends Component {
     },
     inputContainerStyle: {
       borderBottomWidth: 1,
-      borderBottomColor: "black",
+      borderBottomColor: "#00f2e6",
     },
     validColor: "",
     invalidColor: "red",
