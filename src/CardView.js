@@ -105,7 +105,7 @@ export default class CardView extends Component {
     scale: 1,
     fontFamily: Platform.select({ ios: "Courier", android: "monospace" }),
     imageFront: require("../../../images/card-front@2x.png"),
-    imageFront: require("../../../images/card-back@2x.png"),
+    imageBack: require("../../../images/card-back@2x.png"),
   };
 
   render() {
