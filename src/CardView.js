@@ -37,6 +37,7 @@ const s = StyleSheet.create({
   number: {
     fontSize: 21,
     position: "absolute",
+    fontWeight: "500",
     top: 95,
     left: 28,
   },
