@@ -50,7 +50,7 @@ export default class CreditCardInput extends Component {
 
     labelStyle: Text.propTypes.style,
     inputStyle: Text.propTypes.style,
-    inputContainerStyle: View.propTypes.style,
+    // inputContainerStyle: View.propTypes.style,
 
     validColor: PropTypes.string,
     invalidColor: PropTypes.string,
